@@ -5,3 +5,4 @@ The function also accepts decimal numbers if you want to be more precise.
 
 Enjoy! 
 
+Credit for idea: Haiyang Kehoe
